@@ -25,7 +25,7 @@ tagline: level 2 technomancer    # it will display as the sub-title
 description: >-                        # used by seo meta and the atom feed
   Linux and Security Specialist
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://lancol.tech'
 
 github:
   username: lancol-tech             # change to your github username
@@ -76,7 +76,7 @@ theme_mode:  dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://cdn.jsdelivr.net/gh/lancol-tech/lancol-tech.github.io@master/
+img_cdn: https://cdn.jsdelivr.net/gh/lancol-tech/lancol-tech.github.io@master/assets/images
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
